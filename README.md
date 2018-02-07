@@ -8,13 +8,13 @@ Time spent: 15 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can sign up to create a new account using Parse authentication (+1pt)
-- [ ] User can log in and log out of his or her account (+1pt)
-- [ ] The current signed in user is persisted across app restarts (+1pt)
-- [ ] User can take a photo, add a caption, and post it to "Instagram" (+2pt)
-- [ ] User can view the last 20 posts submitted to "Instagram" (+2pt)
-- [ ] User can pull to refresh the last 20 posts submitted to "Instagram" (+1pt)
-- [ ] User can tap a post to view post details, including timestamp and caption (+2pt)
+- [x] User can sign up to create a new account using Parse authentication (+1pt)
+- [x] User can log in and log out of his or her account (+1pt)
+- [x] The current signed in user is persisted across app restarts (+1pt)
+- [x] User can take a photo, add a caption, and post it to "Instagram" (+2pt)
+- [x] User can view the last 20 posts submitted to "Instagram" (+2pt)
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram" (+1pt)
+- [x] User can tap a post to view post details, including timestamp and caption (+2pt)
 
 The following **stretch** features are implemented:
 
@@ -47,6 +47,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+https://i.imgur.com/hfV730O.gif
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
